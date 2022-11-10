@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dawneliz
-- 👀 I’m interested in learning more.
-- 🌱 I’m currently working on my group final project for a Data Science program at Entity Academy.
-- 💞️ I’m looking to collaborate on hopefully something interesting.
-- 📫 How to reach me: LinkedIn, call me, text me or email me
+- 👀 Datadawn is my name data is my game.
+- 🌱 I’m currently working on finding a job, fixing my resume to a simpler format
+- 💞️ I am a Data Scientist at heart
+- 📫 How to reach me: LinkedIn: www.linkedin.com/in/datadawn or email me @ Dawneliz73@gmail.com
 
 Still learning this GitHub shin dig. 
 
